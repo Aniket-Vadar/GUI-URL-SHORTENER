@@ -4,7 +4,7 @@
 This is a simple Python application that allows you to shorten URLs using the Bitly API. The application features a graphical user interface (GUI) that makes it easy to use.
 
 ## Screenshort
-<img src =
+<img src="http://url/image.png" height="60" width="60" 
 ## Features
  - Shorten URLs using the Bitly API
  - Copy the shortened URL to your clipboard with one click
