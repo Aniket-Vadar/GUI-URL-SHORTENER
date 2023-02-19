@@ -10,7 +10,9 @@ This is a simple Python application that allows you to shorten URLs using the Bi
  - Easy-to-use GUI
  
  ## Technologies 🖥️
- - [python](https://github.com/python)
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ 
+ - python
  - Pyshorteners
  - Bitly API
 
