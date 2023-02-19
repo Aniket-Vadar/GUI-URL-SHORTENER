@@ -3,8 +3,6 @@
 ## GUI URL Shortener
 This is a simple Python application that allows you to shorten URLs using the Bitly API. The application features a graphical user interface (GUI) that makes it easy to use.
 
-## Screenshort
-<img src="http://url/image.png" height="60" width="60" 
 ## Features
  - Shorten URLs using the Bitly API
  - Copy the shortened URL to your clipboard with one click
@@ -15,7 +13,14 @@ This is a simple Python application that allows you to shorten URLs using the Bi
  - [python](https://github.com/python)
  - Pyshorteners
  - Bitly API
- 
+
+
+
+## Screenshort
+<img src="https://github.com/AniketVoidd/GUI-URL-SHORTENER/blob/main/URL%20Shortener/Screenshot%202023-02-19%20135631.jpg" height=500 width=500 >
+
+
+
 ## Pull Requests 🔀
 
 How to make code changes and add them to this repo with a Pull Request.
