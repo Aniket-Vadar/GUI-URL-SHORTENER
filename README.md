@@ -1,7 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## GUI URL Shortener
-This is a simple Python application that allows you to shorten URLs using the Bitly API. The application features a graphical user interface (GUI) that makes it easy to use.
+This is a simple Python application that allows you to shorten URLs using the pyshortener. The application features a graphical user interface (GUI) that makes it easy to use.
 
 ## Features
  - Shorten URLs using the Bitly API
